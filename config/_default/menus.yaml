@@ -1,0 +1,51 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 5a5afbe8-af80-d279-c567-e433050a13e7
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 5e65dbb5-5393-fee5-75a5-9d4736748c86
+  name: 'Puzzle 1: You Will All Conform'
+  pageRef: /pages/puzzle-1-you-will-all-conform
+  weight: 20
+- identifier: 1bda9694-81e8-db21-7d35-9d2d91022dc5
+  name: 'Puzzle 2: The Best Time to Party'
+  pageRef: /pages/puzzle-2-the-best-time-to-party
+  weight: 30
+- identifier: 2c683d2b-c663-a413-177b-0cb8c6988a7e
+  name: 'Puzzle 3: You Can Read Minds'
+  pageRef: /pages/puzzle-3-you-can-read-minds
+  weight: 40
+- identifier: 2a1074b1-b265-def8-cbdf-a7d9a3526fbf
+  name: 'Puzzle 4: Please Do Break the Crystal'
+  pageRef: /pages/puzzle-4-please-do-break-the-crystal
+  weight: 50
+- identifier: ddf58741-7a58-e8ba-8b1b-726e81edb257
+  name: 'Puzzle 5: Keep Those Queens Apart'
+  pageRef: /pages/puzzle-5-keep-those-queens-apart
+  weight: 60
+- identifier: b3747039-2f9d-bb5d-0cf7-640d43fb5c08
+  name: 'Puzzle 6: A Profusion of Queens'
+  pageRef: /pages/puzzle-6-a-profusion-of-queens
+  weight: 70
+- identifier: 4df2aedc-1db1-f2b4-677c-c4bba56a3e5f
+  name: 'Puzzle 7: Tile That Courtyard Please'
+  pageRef: /pages/puzzle-7-tile-that-courtyard-please
+  weight: 80
+- identifier: 8923688f-47c6-0b3a-28e4-b49e7d664281
+  name: 'Puzzle 8: You Won''t Want to Play Sudoku Again'
+  pageRef: /pages/puzzle-8-you-wont-want-to-play-sudoku-again
+  weight: 90
+- identifier: 3686d141-cf97-fc02-d1fc-0d688ed3c0c6
+  name: 'Puzzle 9: The Disorganized Handyman'
+  pageRef: /pages/puzzle-9-the-disorganized-handyman
+  weight: 100
+- identifier: 6edd0a42-6da3-1475-1645-dfa11f01a949
+  name: 'Puzzle 10: A Weekend to Remember'
+  pageRef: /pages/puzzle-10-a-weekend-to-remember
+  weight: 110
+- identifier: 8d6d7667-12ef-848a-2099-af13dc3b2d58
+  name: 'Puzzle 11: Memory Serves You Well'
+  pageRef: /pages/puzzle-11-memory-serves-you-well
+  weight: 120

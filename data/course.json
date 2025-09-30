@@ -1,0 +1,51 @@
+{
+  "term": "January IAP",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ]
+  ],
+  "legacy_uid": "6fcf1744-bf7b-3aca-9ade-08566aa93c60",
+  "instructors": {
+    "content": [
+      "97490edb-d1af-d10b-27c8-4045aa33a1af"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8a47e175-cc72-845e-080f-083fcfbc7c29",
+    "website": "6-s095-programming-for-the-puzzled-january-iap-2018"
+  },
+  "course_title": "Programming for the Puzzled",
+  "hide_download": true,
+  "course_description": "This class builds a bridge between the recreational world of algorithmic puzzles (puzzles that can be solved by algorithms) and the pragmatic world of computer programming, teaching students to program while solving puzzles. Python syntax and semantics required to understand the code are explained as needed for each puzzle.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.S095",
+  "course_image_thumbnail": {
+    "content": "a950986e-fc21-b7a0-b7b2-e5a4c90c24d2",
+    "website": "6-s095-programming-for-the-puzzled-january-iap-2018"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Programming Assignments with Examples"
+  ],
+  "site_uid": "8fd24212-1377-4a6d-8f6d-2f1a1ca77f42",
+  "site_short_id": "6.s095-january-iap-2018",
+  "site_url_path": "courses/6-s095-programming-for-the-puzzled-january-iap-2018",
+  "title": "Course Metadata"
+}

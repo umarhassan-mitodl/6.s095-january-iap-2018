@@ -2,8 +2,6 @@
 content_type: page
 description: 'This page includes the video, description, and python files for Puzzle
   8: You Won''t Want to Play Sudoku Again.'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Puzzle 8: You Won''t Want to Play Sudoku Again'

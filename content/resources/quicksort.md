@@ -4,8 +4,6 @@ description: This resource contains information regarding quicksort.py.
 file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/cbd2959ce4732c4eced73c0ed60f87c2_quicksort.py
 file_size: 1552
 file_type: text/python-source
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

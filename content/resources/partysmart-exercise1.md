@@ -4,8 +4,6 @@ description: This resource contains information regarding partysmart-exercise1.p
 file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/2440ea89b3e24b8d82eb76176f00c12e_partysmart-exercise1.py
 file_size: 2927
 file_type: text/python-source
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

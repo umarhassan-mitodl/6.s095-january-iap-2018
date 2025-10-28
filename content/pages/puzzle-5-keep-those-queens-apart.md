@@ -2,8 +2,6 @@
 content_type: page
 description: 'This page includes the video, description, and python files for Puzzle
   5: Keep Those Queens Apart.'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Puzzle 5: Keep Those Queens Apart'

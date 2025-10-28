@@ -2,8 +2,6 @@
 content_type: page
 description: The syllabus describes the course prerequisites, content, requirements,
   and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -36,7 +34,7 @@ The course includes eleven puzzles and related programming exercises that vary i
 Textbook
 --------
 
-Most of the material in this course is from [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262534307) Devadas, Srini. _Programming for the Puzzled: Learn to Program While Solving Puzzles_. MIT Press, 2017. ISBN: 9780262534307. \[Preview with [Google Books](http://books.google.com/books?id=Tpg-DwAAQBAJ&pg=PR4&pg=PAfrontcover)\]
+Most of the material in this course is from {{% resource_link "2c9d557d-610a-4825-afe7-ed7c22a4f06d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Devadas, Srini. _Programming for the Puzzled: Learn to Program While Solving Puzzles_. MIT Press, 2017. ISBN: 9780262534307. \[Preview with {{% resource_link "3c8ae97f-58d5-4fe9-99f2-6eec382e5d77" "Google Books" %}}\]
 
 Grading
 -------

@@ -4,8 +4,6 @@ description: This resource contains information regarding 8queens-iterative-exer
 file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/deac2a81775c2b89c222cefb846eca37_8queens-iterative-exercise1.py
 file_size: 2428
 file_type: text/python-source
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

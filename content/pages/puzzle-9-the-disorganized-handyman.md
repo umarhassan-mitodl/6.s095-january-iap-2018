@@ -2,8 +2,6 @@
 content_type: page
 description: 'This page includes the video, description, and python files for Puzzle
   9: The Disorganized Handyman.'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Puzzle 9: The Disorganized Handyman'

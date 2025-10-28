@@ -4,8 +4,6 @@ description: This resource contains information regarding party.py.
 file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/f06b80e31034f2d85a89e5a6345973f4_party.py
 file_size: 1758
 file_type: text/python-source
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

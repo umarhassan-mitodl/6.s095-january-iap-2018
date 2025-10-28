@@ -28,7 +28,6 @@
     "website": "6-s095-programming-for-the-puzzled-january-iap-2018"
   },
   "course_title": "Programming for the Puzzled",
-  "hide_download": true,
   "course_description": "This class builds a bridge between the recreational world of algorithmic puzzles (puzzles that can be solved by algorithms) and the pragmatic world of computer programming, teaching students to program while solving puzzles. Python syntax and semantics required to understand the code are explained as needed for each puzzle.\n",
   "department_numbers": [
     "6"
@@ -39,7 +38,6 @@
     "content": "a950986e-fc21-b7a0-b7b2-e5a4c90c24d2",
     "website": "6-s095-programming-for-the-puzzled-january-iap-2018"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Programming Assignments with Examples"

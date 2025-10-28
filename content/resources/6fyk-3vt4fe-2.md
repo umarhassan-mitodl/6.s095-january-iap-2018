@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/ef38163366ca5831904a47274da5a06e_6FYk-3vt4FE.vtt
 file_size: 70785
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: This file contains information regarding Puzzle 5.
 file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/b4e9a1e38efcab782107465732020195_MIT6_S095IAP18_Puzzle_5.pdf
 file_size: 183667
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: This resource contains information regarding 4queens-matrix.py.
 file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/05eea3c3320dd6788ea52ace5a322267_4queens-matrix.py
 file_size: 2312
 file_type: text/python-source
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
